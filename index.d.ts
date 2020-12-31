@@ -252,6 +252,8 @@ export class Score {
 
     mods: string[] | string;
 
+    cleanMods: string[];
+
     accuracy: undefined | string | number;
 }
 
